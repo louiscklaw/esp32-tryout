@@ -1,0 +1,3 @@
+[submodule "ESP32-EVB"]
+	path = ESP32-EVB
+	url = https://github.com/OLIMEX/ESP32-EVB.git
